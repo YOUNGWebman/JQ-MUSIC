@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/css/index.css" line="28" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a867f9f-ba44-4b83-a1a5-1ce1bd96e0e4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="262" column="3" lean-forward="true" selection-start-line="262" selection-start-column="3" selection-end-line="262" selection-end-column="3" />
+              <folding>
+                <element signature="e#14#9105#0" />
+                <element signature="e#8047#9103#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="72" column="30" lean-forward="true" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/progress.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/lyric.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-384">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="286" column="1" lean-forward="true" selection-start-line="286" selection-start-column="1" selection-end-line="286" selection-end-column="1" />
+              <folding>
+                <element signature="e#1#9#0" />
+                <element signature="e#44#107#0" />
+                <element signature="e#43#51#0" />
+                <element signature="e#195#203#0" />
+                <element signature="e#276#295#0" />
+                <element signature="e#124#211#0" />
+                <element signature="e#458#502#0" />
+                <element signature="e#524#625#0" />
+                <element signature="e#652#671#0" />
+                <element signature="e#220#288#0" />
+                <element signature="e#309#396#0" />
+                <element signature="e#925#981#0" />
+                <element signature="e#1012#1020#0" />
+                <element signature="e#1096#1324#0" />
+                <element signature="e#1352#1371#0" />
+                <element signature="e#1395#1574#0" />
+                <element signature="e#1611#1652#0" />
+                <element signature="e#1689#1730#0" />
+                <element signature="e#1767#1809#0" />
+                <element signature="e#1846#1888#0" />
+                <element signature="e#1925#1967#0" />
+                <element signature="e#1995#2054#0" />
+                <element signature="e#2071#2234#0" />
+                <element signature="e#2255#2354#0" />
+                <element signature="e#2380#2442#0" />
+                <element signature="e#2470#2581#0" />
+                <element signature="e#2611#2702#0" />
+                <element signature="e#2729#2767#0" />
+                <element signature="e#2795#2895#0" />
+                <element signature="e#2920#2957#0" />
+                <element signature="e#2979#3064#0" />
+                <element signature="e#3077#3227#0" />
+                <element signature="e#3246#3265#0" />
+                <element signature="e#5767#5924#0" />
+                <element signature="e#5946#6018#0" />
+                <element signature="e#6041#6135#0" />
+                <element signature="e#6159#6196#0" />
+                <element signature="e#6219#6291#0" />
+                <element signature="e#6323#6428#0" />
+                <element signature="e#6469#6547#0" />
+                <element signature="e#6588#6626#0" />
+                <element signature="e#6673#6692#0" />
+                <element signature="e#6733#6772#0" />
+                <element signature="e#6813#6934#0" />
+                <element signature="e#6975#7034#0" />
+                <element signature="e#7075#7213#0" />
+                <element signature="e#7236#7309#0" />
+                <element signature="e#7333#7406#0" />
+                <element signature="e#7430#7502#0" />
+                <element signature="e#7526#7598#0" />
+                <element signature="e#7620#7692#0" />
+                <element signature="e#7715#7756#0" />
+                <element signature="e#7779#7852#0" />
+                <element signature="e#7878#7951#0" />
+                <element signature="e#7974#8047#0" />
+                <element signature="e#8071#8109#0" />
+                <element signature="e#8138#8267#0" />
+                <element signature="e#8303#8428#0" />
+                <element signature="e#8465#8503#0" />
+                <element signature="e#8945#9158#0" />
+                <element signature="e#9164#9302#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/source/musiclist.json" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/js/lyric.js" />
+        <option value="$PROJECT_DIR$/js/player.js" />
+        <option value="$PROJECT_DIR$/js/progress.js" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="353" />
+    <option name="y" value="90" />
+    <option name="width" value="1300" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JQ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JQ" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JQ" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JQ" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ws\wbs\程序\练习\JQ\css" />
+      <recent name="D:\ws\wbs\程序\练习\JQ\js" />
+      <recent name="D:\ws\wbs\程序\练习\JQ" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a867f9f-ba44-4b83-a1a5-1ce1bd96e0e4" name="Default Changelist" comment="" />
+      <created>1561861398754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561861398754</updated>
+      <workItem from="1561861399875" duration="599000" />
+      <workItem from="1561979618662" duration="15040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15639000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="353" y="90" width="1300" height="996" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960381" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/index.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/progress.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/progress.js</url>
+          <line>5</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/progress.js</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/jquery-1.12.4.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery.mCustomScrollbar.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="262" column="3" lean-forward="true" selection-start-line="262" selection-start-column="3" selection-end-line="262" selection-end-column="3" />
+          <folding>
+            <element signature="e#14#9105#0" />
+            <element signature="e#8047#9103#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="72" column="30" lean-forward="true" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/我是一个程序员.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/musiclist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="91" column="3" lean-forward="true" selection-start-line="91" selection-start-column="3" selection-end-line="91" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="286" column="1" lean-forward="true" selection-start-line="286" selection-start-column="1" selection-end-line="286" selection-end-column="1" />
+          <folding>
+            <element signature="e#1#9#0" />
+            <element signature="e#44#107#0" />
+            <element signature="e#43#51#0" />
+            <element signature="e#195#203#0" />
+            <element signature="e#276#295#0" />
+            <element signature="e#124#211#0" />
+            <element signature="e#458#502#0" />
+            <element signature="e#524#625#0" />
+            <element signature="e#652#671#0" />
+            <element signature="e#220#288#0" />
+            <element signature="e#309#396#0" />
+            <element signature="e#925#981#0" />
+            <element signature="e#1012#1020#0" />
+            <element signature="e#1096#1324#0" />
+            <element signature="e#1352#1371#0" />
+            <element signature="e#1395#1574#0" />
+            <element signature="e#1611#1652#0" />
+            <element signature="e#1689#1730#0" />
+            <element signature="e#1767#1809#0" />
+            <element signature="e#1846#1888#0" />
+            <element signature="e#1925#1967#0" />
+            <element signature="e#1995#2054#0" />
+            <element signature="e#2071#2234#0" />
+            <element signature="e#2255#2354#0" />
+            <element signature="e#2380#2442#0" />
+            <element signature="e#2470#2581#0" />
+            <element signature="e#2611#2702#0" />
+            <element signature="e#2729#2767#0" />
+            <element signature="e#2795#2895#0" />
+            <element signature="e#2920#2957#0" />
+            <element signature="e#2979#3064#0" />
+            <element signature="e#3077#3227#0" />
+            <element signature="e#3246#3265#0" />
+            <element signature="e#5767#5924#0" />
+            <element signature="e#5946#6018#0" />
+            <element signature="e#6041#6135#0" />
+            <element signature="e#6159#6196#0" />
+            <element signature="e#6219#6291#0" />
+            <element signature="e#6323#6428#0" />
+            <element signature="e#6469#6547#0" />
+            <element signature="e#6588#6626#0" />
+            <element signature="e#6673#6692#0" />
+            <element signature="e#6733#6772#0" />
+            <element signature="e#6813#6934#0" />
+            <element signature="e#6975#7034#0" />
+            <element signature="e#7075#7213#0" />
+            <element signature="e#7236#7309#0" />
+            <element signature="e#7333#7406#0" />
+            <element signature="e#7430#7502#0" />
+            <element signature="e#7526#7598#0" />
+            <element signature="e#7620#7692#0" />
+            <element signature="e#7715#7756#0" />
+            <element signature="e#7779#7852#0" />
+            <element signature="e#7878#7951#0" />
+            <element signature="e#7974#8047#0" />
+            <element signature="e#8071#8109#0" />
+            <element signature="e#8138#8267#0" />
+            <element signature="e#8303#8428#0" />
+            <element signature="e#8465#8503#0" />
+            <element signature="e#8945#9158#0" />
+            <element signature="e#9164#9302#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lyric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/progress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
